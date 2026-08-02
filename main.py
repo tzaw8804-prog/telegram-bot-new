@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, MessageHandler, filters
 
 # Bot Token ကို ထည့်ပါ (သို့မဟုတ် Environment Variable ကနေ ယူပါ)
-"TOKEN = "သင့်ရဲ့_တကယ့်_Bot_Token"
+"TOKEN = "8770069616:AAGcjyRYoQP84l-tYHrZ8F-4d1tO3-ZgwjY"
 
 
 async def echo(update: Update, context: ContextTypes.DEFAULT_TYPE):
